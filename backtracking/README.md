@@ -1,6 +1,81 @@
-# Backtracking Problems
+# Backtracking — LeetCode Solutions
 
-This folder contains solutions to various backtracking problems categorized by difficulty and type. Each problem includes a link to the LeetCode problem statement and the corresponding solution file.
+This folder contains **all problems from the official LeetCode Backtracking list**  
+(100% coverage, including latest additions).
+
+Problems are grouped by **conceptual difficulty**, not by LeetCode labels.
+
+## Structure
+
+backtracking/  
+├── [BASIC/](./BASIC/)  
+├── [MEDIUM/](./MEDIUM/)  
+├── [ADVANCED/](./ADVANCED/)  
+├── [MUST-SOLVE/](./MUST-SOLVE/)  
+├── [template.md](./template.md)  
+└── [pruning_patterns.md](./pruning_patterns.md)
+
+---
+
+## 📁 BASIC
+Classic backtracking problems.
+Single recursive function, no complex state.
+
+Typical patterns:
+- generate all combinations / permutations
+- choose → explore → unchoose
+- no memoization
+
+Examples:
+- Generate Parentheses
+- Permutations
+- Subsets
+- Combination Sum
+
+---
+
+## 📁 MEDIUM
+Backtracking with constraints and pruning.
+
+Typical patterns:
+- deduplication
+- sorting + skipping
+- early stopping
+- partial memoization
+
+Examples:
+- Word Search
+- Target Sum
+- Partition to K Equal Sum Subsets
+- Palindrome Permutation II
+
+---
+
+## 📁 ADVANCED
+Hard problems with complex state.
+
+Typical patterns:
+- bitmasking
+- graph + backtracking
+- DFS + DP
+- strong pruning
+
+Examples:
+- Sudoku Solver
+- N-Queens
+- Word Search II
+- Remove Invalid Parentheses
+- Stickers to Spell Word
+
+---
+
+## ✅ Coverage
+
+✔ 100% of problems from  
+https://leetcode.com/problem-list/backtracking/
+
+Last verified: 2025-01-15
+
 
 ## Categories
 
