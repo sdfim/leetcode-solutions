@@ -22,3 +22,4 @@ def permute(nums: List[int]) -> List[List[int]]:
 if __name__ == "__main__":
     nums = [1, 2, 3]
     print(permute(nums))
+

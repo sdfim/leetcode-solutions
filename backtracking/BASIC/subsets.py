@@ -5,8 +5,10 @@
 from typing import List
 
 def subsets(nums: List[int]) -> List[List[int]]:
+
     def backtrack(start, path):
         result.append(list(path))
+
         for i in range(start, len(nums)):
             path.append(nums[i])
             backtrack(i + 1, path)
