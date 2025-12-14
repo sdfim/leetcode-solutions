@@ -154,21 +154,21 @@ Last verified: 2025-01-15
 
 These are the top 15 must-solve problems for interviews. If you have limited time, focus on these:
 
-1. **[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)** - [Solution](./MUST-SOLVE/generate_parentheses.py)
-2. **[39. Combination Sum](https://leetcode.com/problems/combination-sum/)** - [Solution](./MUST-SOLVE/combination_sum.py)
-3. **[46. Permutations](https://leetcode.com/problems/permutations/)** - [Solution](./MUST-SOLVE/permutations.py)
-4. **[78. Subsets](https://leetcode.com/problems/subsets/)** - [Solution](./MUST-SOLVE/subsets.py)
-5. **[79. Word Search](https://leetcode.com/problems/word-search/)** - [Solution](./MUST-SOLVE/word_search.py)
-6. **[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)** - [Solution](./MUST-SOLVE/palindrome_partitioning.py)
-7. **[51. N-Queens](https://leetcode.com/problems/n-queens/)** - [Solution](./MUST-SOLVE/n_queens.py)
-8. **[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)** - [Solution](./MUST-SOLVE/sudoku_solver.py)
-9. **[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)** - [Solution](./MUST-SOLVE/remove_invalid_parentheses.py)
-10. **[212. Word Search II](https://leetcode.com/problems/word-search-ii/)** - [Solution](./MUST-SOLVE/word_search_ii.py)
-11. **[494. Target Sum](https://leetcode.com/problems/target-sum/)** - [Solution](./MUST-SOLVE/target_sum.py)
-12. **[698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)** - [Solution](./MUST-SOLVE/partition_to_k_equal_sum_subsets.py)
-13. **[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)** - [Solution](./MUST-SOLVE/unique_paths_iii.py)
-14. **[691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)** - [Solution](./MUST-SOLVE/stickers_to_spell_word.py)
-15. **[140. Word Break II](https://leetcode.com/problems/word-break-ii/)** - [Solution](./MUST-SOLVE/word_break_ii.py)
+1. **[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)** - [Solution](../backtracking/BASIC/generate_parentheses.py)
+2. **[39. Combination Sum](https://leetcode.com/problems/combination-sum/)** - [Solution](../backtracking/BASIC/combination_sum.py)
+3. **[46. Permutations](https://leetcode.com/problems/permutations/)** - [Solution](../backtracking/BASIC/permutations.py)
+4. **[78. Subsets](https://leetcode.com/problems/subsets/)** - [Solution](../backtracking/BASIC/subsets.py)
+5. **[79. Word Search](https://leetcode.com/problems/word-search/)** - [Solution](../backtracking/MEDIUM/word_search.py)
+6. **[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)** - [Solution](../backtracking/MEDIUM/palindrome_partitioning.py)
+7. **[51. N-Queens](https://leetcode.com/problems/n-queens/)** - [Solution](../backtracking/ADVANCED/n_queens.py)
+8. **[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)** - [Solution](../backtracking/ADVANCED/sudoku_solver.py)
+9. **[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)** - [Solution](../backtracking/ADVANCED/remove_invalid_parentheses.py)
+10. **[212. Word Search II](https://leetcode.com/problems/word-search-ii/)** - [Solution](../backtracking/ADVANCED/word_search_ii.py)
+11. **[494. Target Sum](https://leetcode.com/problems/target-sum/)** - [Solution](../backtracking/MEDIUM/target_sum.py)
+12. **[698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)** - [Solution](../backtracking/MEDIUM/partition_to_k_equal_sum_subsets.py)
+13. **[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)** - [Solution](../backtracking/ADVANCED/unique_paths_iii.py)
+14. **[691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)** - [Solution](../backtracking/ADVANCED/stickers_to_spell_word.py)
+15. **[140. Word Break II](https://leetcode.com/problems/word-break-ii/)** - [Solution](../backtracking/ADVANCED/word_break_ii.py)
 
 ---
 
