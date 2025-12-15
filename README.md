@@ -21,6 +21,11 @@ The core goal of this repository is to offer **clear, effective solutions** to L
 ## 📂 Repository Structure
 
 - [leetcode-solutions/](./)  
+  - [binary-search/](./binary-search/)
+    - [BASIC/](./binary-search/BASIC/)
+    - [MEDIUM/](./binary-search/MEDIUM/)
+    - [ADVANCED/](./binary-search/ADVANCED/)
+    - [README.md](./binary-search/README.md)
   - [backtracking/](./backtracking/)  
     - [BASIC/](./backtracking/BASIC/)  
     - [MEDIUM/](./backtracking/MEDIUM/)  
@@ -37,6 +42,3 @@ The core goal of this repository is to offer **clear, effective solutions** to L
     - [ADVANCED/](./two-pointers/ADVANCED/)  
     - [README.md](./two-pointers/README.md)
   - [README.md](./README.md)
-
-
-

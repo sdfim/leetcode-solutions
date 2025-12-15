@@ -111,20 +111,18 @@ This directory contains solutions to various linked list problems categorized by
 
 ### ⭐ MUST-SOLVE
 
-If you have limited time, focus on these problems.
+If you have limited time, focus on these problems:
 
-1. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-2. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-3. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-4. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-5. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-6. [143. Reorder List](https://leetcode.com/problems/reorder-list/)
-7. [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-8. [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-9. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-10. [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
-11. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-12. [148. Sort List](https://leetcode.com/problems/sort-list/)
+1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](./BASIC/reverse_linked_list.py)
+2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](./BASIC/merge_two_sorted_lists.py)
+3. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](./BASIC/linked_list_cycle.py)
+4. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](./MEDIUM/remove_nth_node_from_end.py)
+5. [Reorder List](https://leetcode.com/problems/reorder-list/) - [Solution](./MEDIUM/reorder_list.py)
+6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [Solution](./MEDIUM/add_two_numbers.py)
+7. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) - [Solution](./MEDIUM/copy_list_with_random_pointer.py)
+8. [LRU Cache](https://leetcode.com/problems/lru-cache/) - [Solution](./ADVANCED/lru_cache.py)
+9. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) - [Solution](./ADVANCED/flatten_multilevel_doubly_linked_list.py)
+10. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - [Solution](./ADVANCED/merge_k_sorted_lists.py)
 
 ## How to Use
 
