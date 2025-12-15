@@ -31,4 +31,12 @@ The core goal of this repository is to offer **clear, effective solutions** to L
     - [MEDIUM/](./linked_list/MEDIUM/)  
     - [ADVANCED/](./linked_list/ADVANCED/)  
     - [README.md](./linked_list/README.md)
+  - [two-pointers/](./two-pointers/)  
+    - [BASIC/](./two-pointers/BASIC/)  
+    - [MEDIUM/](./two-pointers/MEDIUM/)  
+    - [ADVANCED/](./two-pointers/ADVANCED/)  
+    - [README.md](./two-pointers/README.md)
   - [README.md](./README.md)
+
+
+
